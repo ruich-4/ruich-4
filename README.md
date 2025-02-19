@@ -5,11 +5,11 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ph.VJQ4zC | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 174 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 68743 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ph.VJQ4zC | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakactive.svg" height="12"> 175 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 70113 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 0 |
 
 | Language | XP |
 |:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/japanese.svg" height="12"> Japanese (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/chinese.svg" height="12"> Chinese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 7595 |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/japanese.svg" height="12"> Japanese (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/chinese.svg" height="12"> Chinese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 8965 |
 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/english.svg" height="12"> English (from <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/langs/chinese.svg" height="12"> Chinese) | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 77 |
 
 <!--END_SECTION:duolingoStats-->
