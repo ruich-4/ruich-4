@@ -5,7 +5,7 @@
 
 | Username | Day Streak | Total XP | XP This Week | League |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ph.VJQ4zC | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 677 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 87412 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 43 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/leagues/ruby.png" height="12"> Ruby |
+| <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/duolingo.png" height="12"> ph.VJQ4zC | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/streakinactive.svg" height="12"> 678 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 87437 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/xp.svg" height="12"> 68 | <img src="https://raw.githubusercontent.com/centrumek/duolingo-readme-stats/main/assets/leagues/ruby.png" height="12"> Ruby |
 
 | Language | XP |
 |:---:|:---:|
